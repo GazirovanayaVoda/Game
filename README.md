@@ -6,5 +6,5 @@ Game
     cmake -G "MinGW Makefiles"
     mingw32-make
   # LINUX:
-    cmake
-    make
+    Пока хызы, тут winapi, но вроде существует winegcc  
+  
