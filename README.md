@@ -1,10 +1,10 @@
 # Game
 Game
 
-Как собирать:
-  WINDOWS:
+# Как собирать
+  # WINDOWS:
     cmake -G "MinGW Makefiles"
     mingw32-make
-  LINUX:
+  # LINUX:
     cmake
     make
